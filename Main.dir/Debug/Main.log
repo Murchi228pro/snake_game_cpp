@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/for progs/cpplessons/snake_game_cpp/CMakeLists.txt
+  main.cpp
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(22,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(23,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(23,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(41,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(45,83): warning C4305: +=: усечение из "double" в "float"
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(46,83): warning C4305: +=: усечение из "double" в "float"
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(49,68): warning C4305: -=: усечение из "double" в "float"
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(52,72): warning C4305: -=: усечение из "double" в "float"
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(53,61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(57,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\for progs\cpplessons\snake_game_cpp\src\main.cpp(58,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Main.vcxproj -> C:\for progs\cpplessons\snake_game_cpp\build\Debug\Main.exe
