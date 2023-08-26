@@ -4,8 +4,8 @@
 
 ### Снимки 📸
 
-![](https://github.com/Murchi228pro/snake_game_cpp/blob/main/images/1.jpg?raw=true)
-![](https://github.com/Murchi228pro/snake_game_cpp/blob/main/images/2.jpg?raw=true)
+![](https://github.com/Murchi228pro/snake_game_cpp/blob/main/images/1.jpg?raw=true&size=400x200)
+![](https://github.com/Murchi228pro/snake_game_cpp/blob/main/images/2.jpg?raw=true&size=400x200)
 
 ### Требования для сборки ❗
 
